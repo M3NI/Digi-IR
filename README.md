@@ -14,5 +14,6 @@ VCC = 5V
 
 DATA = PIN2
 
+added keys for generals zero hour AOD gameplay.
 
-added keys for generals zero hour AOD gameplay (lol).
+Modify the code to your own needs.
